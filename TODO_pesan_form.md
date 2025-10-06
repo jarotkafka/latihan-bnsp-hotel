@@ -1,0 +1,8 @@
+- [x] Add stylish header section with background image and title
+- [x] Group fields into Personal Info and Booking Details sections with icons
+- [x] Add placeholders and improve input styling
+- [x] Implement JavaScript for total price calculation
+- [x] Display total price prominently
+- [x] Enhance submit button and add back button
+- [x] Make layout responsive and add animations
+- [x] Add form validation display

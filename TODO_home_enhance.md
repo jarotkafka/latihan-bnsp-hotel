@@ -1,0 +1,5 @@
+- [x] Remove redundant pricing section
+- [x] Change rooms section py-16 to py-20
+- [x] Change about section py-16 to py-20
+- [x] Change gallery section py-16 to py-20 and gap-0 to gap-4
+- [x] Increase room card padding from p-5 to p-6

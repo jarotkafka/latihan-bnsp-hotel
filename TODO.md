@@ -1,0 +1,5 @@
+- [ ] Update home.blade.php prices to match database (23.5jt, 25.9jt, 35.6jt)
+- [ ] Update pesan.blade.php: change tanggal_pesan to date input with min today, max 1 year ahead
+- [ ] Update JS in pesan.blade.php to use correct prices from database
+- [ ] Create resources/views/pesan/index.blade.php with table of bookings
+- [ ] Run php artisan db:seed --class=MediaKamarSeeder to ensure prices in DB
